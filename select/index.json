@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "kagerô",
+  "base_artist": "嵐",
+  "createdAt": "2026-02-19T15:39:18.875872Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Kagero",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/01_Kagero_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Kagero [陽炎]",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/02_Kagero_[陽炎]_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Shiroiro Kagero",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/03_Shiroiro_Kagero_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Kagero -movie version-",
+      "artist": "Sakanaction",
+      "has_synced": true,
+      "path": "select/04_Kagero_-movie_version-_Sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "KAGERO",
+      "artist": "Sometime's",
+      "has_synced": true,
+      "path": "select/05_KAGERO_Sometime's.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Kagero",
+      "artist": "ARASHI",
+      "has_synced": true,
+      "path": "select/06_Kagero_ARASHI.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "kagero",
+      "artist": "嵐",
+      "has_synced": true,
+      "path": "select/07_kagero_嵐.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "kagerô",
+      "artist": "嵐",
+      "has_synced": false,
+      "path": "select/pl_01_kagerô_嵐.txt"
+    }
+  ]
+}
